@@ -12,7 +12,7 @@ I am a highly motivated and results-oriented individual. I am always looking for
 
 I am confident that I have the skills and experience to be a valuable asset to your team.
 
-Skills: Java/ Dart/ Flutter / MySql/ SQlite
+Skills: Java/ Dart/ Flutter / MySql/ SQLite/ Firebase / MongoDB
 
 - 🔭 I’m currently working on Android and Flutter  
 
