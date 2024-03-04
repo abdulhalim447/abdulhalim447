@@ -27,7 +27,7 @@ Skills: Java/ Dart/ Flutter / MySql/ SQlite
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhalim447&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abdulhalim447/contributions?format=svg&private=true)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/abdulhalim447)  
 
