@@ -6,13 +6,13 @@
 
 Hi, I'm ABDUL HALIM , an experienced Android and Flutter app developer. I have a passion for building high-quality, user-friendly apps that solve real-world problems.
 
-I have over  4 years of experience in the app development industry, and I have worked on a variety of projects, from small startups to large enterprises. I am proficient in a variety of programming languages and technologies, including Java, Dart, and Flutter.
+I have over  5 years of experience in the app development industry, and I have worked on a variety of projects, from small startups to large enterprises. I am proficient in a variety of programming languages and technologies, including Java, Dart, and Flutter. (backend PHP Laravel with MySQL)
 
 I am a highly motivated and results-oriented individual. I am always looking for new challenges and opportunities to learn and grow. I am also a team player and I am always willing to help others.
 
 I am confident that I have the skills and experience to be a valuable asset to your team.
 
-Skills: Java/ Dart/ Flutter / MySql/ SQLite/ Firebase / MongoDB
+Skills: Java/ Dart/ Flutter / MySql/ SQLite/ Firebase / PHP Laravel
 
 - 🔭 I’m currently working on Android and Flutter  
 
