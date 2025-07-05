@@ -1,9 +1,7 @@
 ![Experienced Flutter Developer.](https://media.licdn.com/dms/image/v2/D5603AQGsjbPpMWDvRA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726407136275?e=2147483647&v=beta&t=PywrUhWYykQIhG-Mpb4r0YCcafWeXRJvNKEOUG1G1gs)
 
 
-### Hi there 👋, I am ABDUL HALIM 
-#### Skilled Flutter Developer.
-
+### Hi there 👋, I am ABDUL HALIM,
 Experienced Flutter developer with strong profciency in Dart and cross-platform mobile app development. Skilled in
 Firebase, Supabase, GetX, Provider, Push Notifcation, Payment Gateway Integration, AI integration, and RESTful API
 implementation. Focused on building responsive UI/UX with clean architecture. Seeking to contribute to impactful
