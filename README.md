@@ -1,20 +1,13 @@
-![Android and Flutter Developer.](https://scontent.fjsr1-2.fna.fbcdn.net/v/t39.30808-6/431435569_1633658923872864_2321610085193451951_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=KU0QJ_olOkEAX_FNIwT&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfDrcv3RGCYPQ_oDsHtEcqkq5OZ1xFolI14fdAyykBGc4A&oe=65EA5B83)
+![Experienced Flutter Developer.](https://media.licdn.com/dms/image/v2/D5603AQGsjbPpMWDvRA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726407136275?e=2147483647&v=beta&t=PywrUhWYykQIhG-Mpb4r0YCcafWeXRJvNKEOUG1G1gs?_nc_cat=100&ccb=1-7&_nc_sid=783fdb&_nc_ohc=KU0QJ_olOkEAX_FNIwT&_nc_zt=23&_nc_ht=scontent.fjsr1-2.fna&oh=00_AfDrcv3RGCYPQ_oDsHtEcqkq5OZ1xFolI14fdAyykBGc4A&oe=65EA5B83)
 
 
 ### Hi there 👋, I am ABDUL HALIM 
-#### Android and Flutter Developer.
+#### Skilled Flutter Developer.
 
-Hi, I'm ABDUL HALIM , an experienced Android and Flutter app developer. I have a passion for building high-quality, user-friendly apps that solve real-world problems.
-
-I have over  5 years of experience in the app development industry, and I have worked on a variety of projects, from small startups to large enterprises. I am proficient in a variety of programming languages and technologies, including Java, Dart, and Flutter. (backend PHP Laravel with MySQL)
-
-I am a highly motivated and results-oriented individual. I am always looking for new challenges and opportunities to learn and grow. I am also a team player and I am always willing to help others.
-
-I am confident that I have the skills and experience to be a valuable asset to your team.
-
-Skills: Java/ Dart/ Flutter / MySql/ SQLite/ Firebase / PHP Laravel
-
-- 🔭 I’m currently working on Android and Flutter  
+Experienced Flutter developer with strong profciency in Dart and cross-platform mobile app development. Skilled in
+Firebase, Supabase, GetX, Provider, Push Notifcation, Payment Gateway Integration, AI integration, and RESTful API
+implementation. Focused on building responsive UI/UX with clean architecture. Seeking to contribute to impactful
+projects in a dynamic and growth-oriented development environment.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdulhalim447)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abdulhalimbaccu)  
