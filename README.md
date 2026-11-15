@@ -4,7 +4,10 @@
 
 I build Flutter apps for Android and iOS, along with the NestJS + PostgreSQL backends and Next.js admin panels that run them. I'm the Co-Founder & CTO of [Avence Labs](https://avencelabs.com).
 
-I've been shipping apps for 5 years, and 17+ of them are live on Google Play. Most of my client and company code sits in private repos, so this page shows the finished products instead.
+I've been shipping apps for 5 years, and 17+ of them are live on Google Play.
+
+> 🔒 **Why are my repositories private?**
+> I have 80+ repositories, and almost all of them are private on purpose. Each one runs a real business: a client's product or one of our own. Their code isn't mine to publish, so this page shows the finished apps instead. Happy to walk you through my code on a call.
 
 ---
 
