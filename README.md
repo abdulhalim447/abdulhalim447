@@ -59,7 +59,7 @@ Every Bangladeshi job circular in one app, with category search and an age calcu
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.jobs_notice_bd.app)
 
-More projects are on my [portfolio](https://dev-abdulhalim.netlify.app/).
+Case studies and more projects are on my [website](https://abdulhalim.avencelabs.com/projects).
 
 ---
 
@@ -67,7 +67,7 @@ More projects are on my [portfolio](https://dev-abdulhalim.netlify.app/).
 
 Need an app built, fixed or published? Send me a message.
 
-- Portfolio: [dev-abdulhalim.netlify.app](https://dev-abdulhalim.netlify.app/)
+- Website: [abdulhalim.avencelabs.com](https://abdulhalim.avencelabs.com)
 - Company: [avencelabs.com](https://avencelabs.com)
 - Upwork: [hire me on Upwork](https://www.upwork.com/freelancers/~016634faf4bc9a10c0)
 - Facebook: [Developer Abdul Halim](https://www.facebook.com/developerabdulhalim)
