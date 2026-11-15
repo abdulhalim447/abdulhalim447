@@ -7,7 +7,7 @@ I build Flutter apps for Android and iOS, along with the NestJS + PostgreSQL bac
 I've been shipping apps for 5 years, and 17+ of them are live on Google Play.
 
 > 🔒 **Why are my repositories private?**
-> I have 100+ repositories, and almost all of them are private on purpose. Each one runs a real business: a client's product or one of our own. Their code isn't mine to publish, so this page shows the finished apps instead. Happy to walk you through my code on a call.
+> I have 80+ repositories, and almost all of them are private on purpose. Each one runs a real business: a client's product or one of our own. Their code isn't mine to publish, so this page shows the finished apps instead. Happy to walk you through my code on a call.
 
 ---
 
@@ -69,6 +69,8 @@ Need an app built, fixed or published? Send me a message.
 
 - Portfolio: [dev-abdulhalim.netlify.app](https://dev-abdulhalim.netlify.app/)
 - Company: [avencelabs.com](https://avencelabs.com)
+- Upwork: [hire me on Upwork](https://www.upwork.com/freelancers/~016634faf4bc9a10c0)
+- Facebook: [Developer Abdul Halim](https://www.facebook.com/developerabdulhalim)
 - LinkedIn: [in/dev-abdul-halim](https://www.linkedin.com/in/dev-abdul-halim)
 - YouTube: [@developer_abdul_halim](https://www.youtube.com/@developer_abdul_halim)
 - X: [@developer_halim](https://x.com/developer_halim)
